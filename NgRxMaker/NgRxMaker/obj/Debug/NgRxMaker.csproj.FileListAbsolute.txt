@@ -1,0 +1,11 @@
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\bin\Debug\NgRxMaker.exe.config
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\bin\Debug\NgRxMaker.exe
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\bin\Debug\NgRxMaker.pdb
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.csproj.AssemblyReference.cache
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.csproj.SuggestedBindingRedirects.cache
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.NgRxMaker.resources
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.Properties.Resources.resources
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.csproj.GenerateResource.cache
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.csproj.CoreCompileInputs.cache
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.exe
+C:\projetos\ngrx-maker\NgRxMaker\NgRxMaker\obj\Debug\NgRxMaker.pdb
