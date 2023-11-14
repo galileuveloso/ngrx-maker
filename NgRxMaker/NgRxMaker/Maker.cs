@@ -12,7 +12,7 @@ namespace NgRxMaker
             {
                 Files = new List<File>()
                 {
-                    new File { Name = "index.ts", Content = "export * from './actions';\r\nexport * from './effects';\r\nexport * from './reducers';\r\nexport * from './selectors';" }
+                    new File { Name = "index.ts", Content = "export * from './helpers';\r\nexport * from './modules';\r\nexport * from './resolvers';\r\nexport * from './store';" }
                 }
             },
             new Directory
@@ -29,7 +29,7 @@ namespace NgRxMaker
                 Path = "modules",
                 Files = new List<File>()
                 {
-                    new File { Name = "@feature.module.ts", Content = "import { NgModule } from '@angular/core';\r\nimport { CommonModule } from '@angular/common';\r\nimport { StoreModule } from '@ngrx/store';\r\nimport * as fromE@entity from '../store/reducers';\r\nimport { EffectsModule } from '@ngrx/effects';\r\nimport { @entityEffects } from '../store/effects';\r\n\r\n@NgModule({\r\n  declarations: [],\r\n  imports: [\r\n    CommonModule,\r\n    StoreModule.forFeature(from@entity.@fEATUREFeatureKey, from@entity.@fEATUREReducer),\r\n    EffectsModule.forFeature([@entityEffects])\r\n  ]\r\n})\r\nexport class @entityModule { }\r\n" },
+                    new File { Name = "@feature.module.ts", Content = "import { NgModule } from '@angular/core';\r\nimport { CommonModule } from '@angular/common';\r\nimport { StoreModule } from '@ngrx/store';\r\nimport * as from@entity from '../store/reducers';\r\nimport { EffectsModule } from '@ngrx/effects';\r\nimport { @entityEffects } from '../store/effects';\r\n\r\n@NgModule({\r\n  declarations: [],\r\n  imports: [\r\n    CommonModule,\r\n    StoreModule.forFeature(from@entity.@fEATUREFeatureKey, from@entity.@fEATUREReducer),\r\n    EffectsModule.forFeature([@entityEffects])\r\n  ]\r\n})\r\nexport class @entityModule { }\r\n" },
                     new File { Name = "index.ts", Content = "export * from './@feature.module';" }
                 }
             },
